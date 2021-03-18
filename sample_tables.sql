@@ -13,3 +13,10 @@ CREATE TABLE committees (
     name VARCHAR(100),
     PRIMARY KEY (committee_id)
 );
+
+
+INSERT INTO members(name)
+VALUES("Garnett"),("Kevin"),("Cruise"),("Tom");
+
+INSERT INTO committees(name)
+VALUES("Reyes")("Tom"),("Anthony"),("Mike");
