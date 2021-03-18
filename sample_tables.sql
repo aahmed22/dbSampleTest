@@ -20,3 +20,6 @@ VALUES("Garnett"),("Kevin"),("Cruise"),("Tom");
 
 INSERT INTO committees(name)
 VALUES("Reyes"),("Tom"),("Anthony"),("Mike");
+
+
+sudo mysql -u root -p classicmodels < sample_table.sql
