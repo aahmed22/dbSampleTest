@@ -19,4 +19,4 @@ INSERT INTO members(name)
 VALUES("Garnett"),("Kevin"),("Cruise"),("Tom");
 
 INSERT INTO committees(name)
-VALUES("Reyes")("Tom"),("Anthony"),("Mike");
+VALUES("Reyes"),("Tom"),("Anthony"),("Mike");
