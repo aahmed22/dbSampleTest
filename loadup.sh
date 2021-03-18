@@ -15,3 +15,5 @@ unzip mysqlsampledatabase.zip
 
 wget https://sp.mysqltutorial.org/wp-content/uploads/2018/03/python_mysql.zip
 unzip python_mysql.zip
+
+pip3 install mysql-connector-python
