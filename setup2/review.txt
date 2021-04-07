@@ -1,0 +1,15 @@
+Revise:
+https://realpython.com/token-based-authentication-with-flask/
+https://developer.amazon.com/docs/app-submission-api/python-example.html
+https://www.gngrninja.com/code/2017/6/16/python-simple-rest-api-example-and-string-formatting
+https://www.nylas.com/blog/use-python-requests-module-rest-apis/
+https://stackoverflow.com/questions/41201630/python-requests-get-vs-powershell-invoke-webrequest-uri
+https://www.gngrninja.com/code/2017/6/16/python-simple-rest-api-example-and-string-formatting
+https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
+
+Graph:
+https://www.youtube.com/watch?v=yw5Cz5rO6_Y&list=PL8wOlV8Hv3o_KgAx8JmnqM4G97U0vPR9l&index=1
+https://www.youtube.com/watch?v=CTEs_lHtZJ4&list=PL8wOlV8Hv3o9TUJxUR9T78TevVjtsRAup
+https://www.youtube.com/watch?v=AvNc1p2HywI
+https://www.youtube.com/watch?v=AvNc1p2HywI
+https://www.youtube.com/watch?v=7qt8asY33Aw

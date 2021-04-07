@@ -1,0 +1,11 @@
+Review:
+https://www.askpython.com/python/examples/connect-and-call-apis
+http://www.pyinvoke.org/
+https://towardsdatascience.com/querying-microsoft-graph-api-with-python-269118e8180c
+https://github.com/pnp/PnP/tree/master/Samples/Python.Office365.AppAuthentication
+https://www.youtube.com/c/SigmaCoding/videos
+https://blog.darrenjrobinson.com/microsoft-graph-using-msal-with-python-and-delegated-permissions/
+https://www.geeksforgeeks.org/response-methods-python-requests/
+https://docs.python-requests.org/en/master/
+
+https://developer.microsoft.com/en-us/graph/graph-explorer
